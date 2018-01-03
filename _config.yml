@@ -1,7 +1,7 @@
 # global settings
 title: "Item Manis Suroboyo"
 description: "Brownies Item Manis Surabaya Murah, Sedap, Enak, Tasty and un-forgettable."
-url: https://aksisoftsby.github.io/Item-manis-suroboyo/
+url: https://aksisoftsby.github.io/Item-manis-suroboyo
 
 plugins:
   - jekyll-avatar
